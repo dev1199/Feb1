@@ -1,4 +1,5 @@
 boil milk
+add water 
 add sugar
 after boiling add coffee powder
 boil for a min
